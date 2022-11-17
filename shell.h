@@ -11,8 +11,6 @@
 #include <errno.h>
 #include <dirent.h>
 #include <signal.h>
-#include <limits.h>
-#include <fcntl.h>
 
 /*constants*/
 #define EXTERNAL_COMMAND 1
